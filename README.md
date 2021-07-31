@@ -28,7 +28,6 @@
 * Prevention of desync between boss model and boss’s position.
 * Full control over all features and many additional configuration options.
 
-
 Lifetime access, updates & support - 75€
 
 Message me on Discord for more information:
